@@ -1,4 +1,4 @@
-# SinZheng's game workshop
+# SinZheng的练习室
 
 ## Ruby's Adventrue
 对官方案例的仿制，关于2D开发的各项技术均有涉猎。
