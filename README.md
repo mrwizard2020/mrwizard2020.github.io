@@ -1,5 +1,12 @@
 # SinZheng的实验室
 
+## Sheep And Sheep(Shape and Shape XD)
+《羊了个羊》是一款曾经在中国小游戏领域很火的三消。
+
+正好之前没涉足过，当作用来实战UGUI和DoTween插件的项目。
+
+[玩一玩](https://mrwizard2020.github.io/sheepandsheep/Sheep.apk)
+
 ## Simple Tower Defence Game
 一款简单的3D塔防游戏，包含了塔防游戏的全部要素。
 
