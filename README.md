@@ -5,6 +5,8 @@
 
 简单的画线类物理模拟小游戏，算是对自己最近学习LineRender组件的一个总结。
 
+[玩一玩](https://mrwizard2020.github.io/watergame)
+
 ## FishMaster
 没错，《捕鱼达人》……也是目前完成度最高的一个游戏，越来越熟练啦XD
 
