@@ -3,6 +3,8 @@
 ## Cleaner Diary
 一个完整的2D俯视角射击手游DEMO，扮演特种兵安德鲁前往沦陷的城市清洗丧尸。
 
+[玩一玩](https://mrwizard2020.github.io/clearnerdiary/ClearnerDiary.apk)
+
 ## DreamPath
 一款商业手机小游戏，完成度非常高，还原到99%了吧。
 
